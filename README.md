@@ -107,18 +107,9 @@ print(probs(df, child='RainTomorrow', parent1='Humidity3pmCat', parent2='WindGus
 
 ## Output:
 #### Variable bands:
-
 ![Screenshot 2025-03-21 114140](https://github.com/user-attachments/assets/ac1700bb-5162-4f2e-9d8a-c25bfcc1bf7d)
-
 ![Screenshot 2025-03-21 114159](https://github.com/user-attachments/assets/db5af6a8-7abe-4fef-acf3-934d82ee259e)
-
-
-
 #### Graph:
-
 ![Screenshot 2025-03-21 114239](https://github.com/user-attachments/assets/caa8216a-efa4-4b8f-8d8f-7fe287a3b8dc)
-
-
 ## Result:
    Thus a Bayesian Network is generated using Python
-
